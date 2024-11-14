@@ -1,1 +1,1 @@
-# What the sigmas
+# A local chatting website
