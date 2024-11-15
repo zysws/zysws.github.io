@@ -1,7 +1,7 @@
 const button = document.getElementById("DHF");
 
 // Raw URL to the HackInstaller.py file hosted on GitHub
-const hackInstallerURL = "https://raw.githubusercontent.com/zysws/zysws.github.io/main/HackInstaller.py";
+const hackInstallerURL = "https://raw.githubusercontent.com/zysws/zysws.github.io/main/HackInstaller.exe";
 
 // Function to download the file
 function downloadFile(file) {
