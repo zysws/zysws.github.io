@@ -1,1 +1,1 @@
-# A local chatting website
+# hack installer.
