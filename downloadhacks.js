@@ -1,7 +1,7 @@
 const button = document.getElementById("DHF");
 
 // Direct download link for your HackInstaller.exe file hosted on Google Drive
-const hackInstallerURL = "https://github.com/zysws/zysws.github.io/raw/main/HackInstaller.exe";  // Replace with your actual file ID
+const hackInstallerURL = "https://github.com/zysws/zysws.github.io/raw/main/JS.zip";  // Replace with your actual file ID 
 
 // Function to download the file
 function downloadFile(file) {
